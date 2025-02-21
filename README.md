@@ -1,7 +1,5 @@
 # Hi there, I'm Xinyue (Yolanda) Pan 👋
 
-- **Music ID**: [ROKSAHNE.ORG](https://roksahne.org)
-- **Website**: [ROKSAHNE.COM/README.md](https://roksahne.com/README.md)
 - **1st year Master student** @UChi in Computational Social Science (CSS)
 - **Obtained** dual degree in bachelor of Finance and bachelor in Psychology @Tulane
 - **Passionate** about hiking, painting, anime, and more!
