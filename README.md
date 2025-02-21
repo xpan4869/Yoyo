@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://roksanne.github.io/">Xinyue (Yolanda) Pan</a>. 👋 </h1>
+<h1 align="center">Hi there, I'm Xinyue (Yolanda) Pan</a>. 👋 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/xinyue-pan-02/">
